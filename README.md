@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Tomislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tdrachev)](https://github.com/anuraghazra/github-readme-stats)
+[![Tomislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tdrachev&hide=stars&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
